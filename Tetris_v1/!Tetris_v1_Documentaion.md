@@ -1,4 +1,4 @@
-# Tetris Project Version 1
+# Tetris Project V1
 
 Version 1 was made for my second year design class ECE 2242 withanakin4747 and Parker Young.
 We decided to make a tetris game but to reduce scope reduced the size of the screen and game shapes.
